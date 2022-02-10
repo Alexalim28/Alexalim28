@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alexalim28
-- 👀 I’m interested in Front-End / Back-End / Blockchain Development
-- 🌱 I’m currently learning ReactJS, Node/Express, MongoDB, Solidity/Truffle/Web3...
+- 👀 I’m interested in Front-End / Back-End Dev
+- 🌱 I’m currently learning ReactJS, Node/Express, MongoDB...
 - 📫 How to reach me :
     - alexis.ahab@gmaill.com
     - Twiter: @Silexa4
